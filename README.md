@@ -1,8 +1,5 @@
 # Young Fashion
 ## 👕 Tienda Ropa API
-
- > Proyecto grupal de DWES hecho por Ángela, Jesús y Antonio
-
  ***
 
  <div align="center">
