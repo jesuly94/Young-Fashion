@@ -3,11 +3,9 @@
  ***
 
  <div align="center">
-    <h3>🐾 [ Tienda API ] 🐾<h3>
-    <h5>Descúbrelo en ✅</h5>
+    <h3> Tienda API YOUNG FASHION <h3>
+    <h5>Descúbrelo en:</h5>
     <h3>
-        <a href="https://view.genial.ly/62264a9e77428d00197df8ee/presentation-tech-simple-presentation">
-            Genial.ly
         </a>
         <span> | </span>
          <a href="https://mega.nz/file/xIYCjBYL#ZPxxm2GTY--KH5RGAfwHUtCxm3IYXBt7t8y-YIbi_ZI">
@@ -58,19 +56,7 @@ Usado [Express](https://expressjs.com/es/ "Express") y [Mongoose](https://mongoo
 - Uso de Sonarqube para mejorar el código e implementación de tests con Jest
 - Contenedor de Docker para guardar la aplicación 
 
-***
 
-### **✨** Extra
-
-#### VISUALIZAR SWAGGER
-
-https://editor.swagger.io/
-
-1. Ir a File
-2. Import File
-3. Seleccionar el archivo swaggerTiendaAPI.yaml descargado <a href="https://mega.nz/file/xIYCjBYL#ZPxxm2GTY--KH5RGAfwHUtCxm3IYXBt7t8y-YIbi_ZI">aquí</a>
-
-***
  
 ### 📷 Vistas
 
@@ -82,9 +68,6 @@ https://editor.swagger.io/
 
 ![Factura](./docs/factura.PNG "Vista Factura")
 
-#### Sonarqube
-
-![Sonarqube](./docs/sonarqube.PNG "Vista Sonarqube")
 
 
 
