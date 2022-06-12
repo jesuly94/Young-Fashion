@@ -57,18 +57,6 @@ Usado [Express](https://expressjs.com/es/ "Express") y [Mongoose](https://mongoo
 - Contenedor de Docker para guardar la aplicación 
 
 
- 
-### 📷 Vistas
-
-#### Swagger
-
-![Swagger](./docs/swagger.PNG "Vista Swagger")
-
-#### Factura
-
-![Factura](./docs/factura.PNG "Vista Factura")
-
-
 
 
  
